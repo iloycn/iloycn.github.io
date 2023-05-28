@@ -1,0 +1,291 @@
+{
+    "jugadores": [
+      {
+        "nombre": "Shoyo Hinata",
+        "edad": "16 años",
+        "altura": "162.8 cm",
+        "fotografia": "imagen_url",
+        "numero": 10,
+        "equipo": "Karasuno High School"
+      },
+      {
+        "nombre": "Tobio Kageyama",
+        "edad": "16 años",
+        "altura": "180.6 cm",
+        "fotografia": "imagen_url",
+        "numero": 9,
+        "equipo": "Karasuno High School"
+      },
+      {
+        "nombre": "Yu Nishinoya",
+        "edad": "17 años",
+        "altura": "159.3 cm",
+        "fotografia": "imagen_url",
+        "numero": 4,
+        "equipo": "Karasuno High School"
+      },
+      {
+        "nombre": "Daichi Sawamura",
+        "edad": "18 años",
+        "altura": "177.2 cm",
+        "fotografia": "imagen_url",
+        "numero": 1,
+        "equipo": "Karasuno High School"
+      },
+      {
+        "nombre": "Koshi Sugawara",
+        "edad": "17 años",
+        "altura": "174.3 cm",
+        "fotografia": "imagen_url",
+        "numero": 2,
+        "equipo": "Karasuno High School"
+      },
+      {
+        "nombre": "Ryunosuke Tanaka",
+        "edad": "17 años",
+        "altura": "177.2 cm",
+        "fotografia": "imagen_url",
+        "numero": 6,
+        "equipo": "Karasuno High School"
+      },
+      {
+        "nombre": "Kei Tsukishima",
+        "edad": "16 años",
+        "altura": "188.3 cm",
+        "fotografia": "imagen_url",
+        "numero": 11,
+        "equipo": "Karasuno High School"
+      },
+      {
+        "nombre": "Tadashi Yamaguchi",
+        "edad": "16 años",
+        "altura": "184.7 cm",
+        "fotografia": "imagen_url",
+        "numero": 12,
+        "equipo": "Karasuno High School"
+      },
+      {
+        "nombre": "Asahi Azumane",
+        "edad": "18 años",
+        "altura": "184.7 cm",
+        "fotografia": "imagen_url",
+        "numero": 3,
+        "equipo": "Karasuno High School"
+      },
+      {
+        "nombre": "Kiyoko Shimizu",
+        "edad": "17 años",
+        "altura": "No especificada",
+        "fotografia": "imagen_url",
+        "papel": "Manager del equipo Karasuno High School"
+      },
+      {
+        "nombre": "Tetsuro Kuroo",
+        "edad": "18 años",
+        "altura": "187.7 cm",
+        "fotografia": "imagen_url",
+        "numero": 1,
+        "equipo": "Nekoma High School"
+      },
+      {
+        "nombre": "Kenma Kozume",
+        "edad": "17 años",
+        "altura": "169.2 cm",
+        "fotografia": "imagen_url",
+        "numero": 5,
+        "equipo": "Nekoma High School"
+      },
+      {
+        "nombre": "Taketora Yamamoto",
+        "edad": "17 años",
+        "altura": "178.2 cm",
+        "fotografia": "imagen_url",
+        "numero": 7,
+        "equipo": "Nekoma High School"
+      },
+      {
+        "nombre": "Nobuyuki Kai",
+        "edad": "17 años",
+        "altura": "184.3 cm",
+        "fotografia": "imagen_url",
+        "numero": 9,
+        "equipo": "Nekoma High School"
+      },
+      {
+        "nombre": "Morisuke Yaku",
+        "edad": "17 años",
+        "altura": "166.2 cm",
+        "fotografia": "imagen_url",
+        "numero": 3,
+        "equipo": "Nekoma High School"
+      },
+      {
+        "nombre": "Lev Haiba",
+        "edad": "17 años",
+        "altura": "194.3 cm",
+        "fotografia": "imagen_url",
+        "numero": 10,
+        "equipo": "Nekoma High School"
+      },
+      {
+        "nombre": "Sō Inuoka",
+        "edad": "17 años",
+        "altura": "178.3 cm",
+        "fotografia": "imagen_url",
+        "numero": 11,
+        "equipo": "Nekoma High School"
+      },
+      {
+        "nombre": "Yūki Shibayama",
+        "edad": "16 años",
+        "altura": "162.8 cm",
+        "fotografia": "imagen_url",
+        "numero": 12,
+        "equipo": "Nekoma High School"
+      },
+      {
+        "nombre": "Tooru Oikawa",
+        "edad": "17 años",
+        "altura": "184 cm",
+        "fotografia": "imagen_url",
+        "numero": 1,
+        "equipo": "Aoba Johsai High School"
+      },
+      {
+        "nombre": "Hajime Iwaizumi",
+        "edad": "17 años",
+        "altura": "180.6 cm",
+        "fotografia": "imagen_url",
+        "numero": 4,
+        "equipo": "Aoba Johsai High School"
+      },
+      {
+        "nombre": "Issei Matsukawa",
+        "edad": "17 años",
+        "altura": "187.7 cm",
+        "fotografia": "imagen_url",
+        "numero": 5,
+        "equipo": "Aoba Johsai High School"
+      },
+      {
+        "nombre": "Takahiro Hanamaki",
+        "edad": "17 años",
+        "altura": "182.3 cm",
+        "fotografia": "imagen_url",
+        "numero": 7,
+        "equipo": "Aoba Johsai High School"
+      },
+      {
+        "nombre": "Yūtarō Kindaichi",
+        "edad": "16 años",
+        "altura": "180.8 cm",
+        "fotografia": "imagen_url",
+        "numero": 10,
+        "equipo": "Aoba Johsai High School"
+      },
+      {
+        "nombre": "Shinji Watari",
+        "edad": "16 años",
+        "altura": "176.5 cm",
+        "fotografia": "imagen_url",
+        "numero": 8,
+        "equipo": "Aoba Johsai High School"
+      },
+      {
+        "nombre": "Shigeru Yahaba",
+        "edad": "17 años",
+        "altura": "177 cm",
+        "fotografia": "imagen_url",
+        "numero": 2,
+        "equipo": "Aoba Johsai High School"
+      },
+      {
+        "nombre": "Akira Kunimi",
+        "edad": "17 años",
+        "altura": "187.2 cm",
+        "fotografia": "imagen_url",
+        "numero": 6,
+        "equipo": "Aoba Johsai High School"
+      },
+      {
+        "nombre": "Kentarō Kyōtani",
+        "edad": "17 años",
+        "altura": "187 cm",
+        "fotografia": "imagen_url",
+        "numero": 3,
+        "equipo": "Aoba Johsai High School"
+      },
+      {
+        "nombre": "Kaname Moniwa",
+        "edad": "18 años",
+        "altura": "176.3 cm",
+        "fotografia": "imagen_url",
+        "numero": 2,
+        "equipo": "Date Tech High School"
+      },
+      {
+        "nombre": "Kazuhito Narita",
+        "edad": "17 años",
+        "altura": "177 cm",
+        "fotografia": "imagen_url",
+        "numero": 4,
+        "equipo": "Date Tech High School"
+      },
+      {
+        "nombre": "Yasushi Kamasaki",
+        "edad": "17 años",
+        "altura": "175 cm",
+        "fotografia": "imagen_url",
+        "numero": 6,
+        "equipo": "Date Tech High School"
+      },
+      {
+        "nombre": "Kanji Koganegawa",
+        "edad": "16 años",
+        "altura": "193 cm",
+        "fotografia": "imagen_url",
+        "numero": 9,
+        "equipo": "Date Tech High School"
+      },
+      {
+        "nombre": "Takehito Sasaya",
+        "edad": "17 años",
+        "altura": "178 cm",
+        "fotografia": "imagen_url",
+        "numero": 10,
+        "equipo": "Date Tech High School"
+      },
+      {
+        "nombre": "Hiroki Kurokawa",
+        "edad": "17 años",
+        "altura": "180 cm",
+        "fotografia": "imagen_url",
+        "numero": 11,
+        "equipo": "Date Tech High School"
+      },
+      {
+        "nombre": "Kenji Futakuchi",
+        "edad": "17 años",
+        "altura": "184 cm",
+        "fotografia": "imagen_url",
+        "numero": 7,
+        "equipo": "Date Tech High School"
+      },
+      {
+        "nombre": "Takanobu Aone",
+        "edad": "18 años",
+        "altura": "194 cm",
+        "fotografia": "imagen_url",
+        "numero": 5,
+        "equipo": "Date Tech High School"
+      },
+      {
+        "nombre": "Yutaka Obara",
+        "edad": "17 años",
+        "altura": "181 cm",
+        "fotografia": "imagen_url",
+        "numero": 8,
+        "equipo": "Date Tech High School"
+      }
+    ]
+  }
